@@ -11,7 +11,7 @@ const Dashboard = () => {
     };
 
     return (
-        <div className="dashboard p-6">
+        <div className="MyLuFix VAI p-6">
             <h1 className="text-3xl font-bold">AI Video Generator</h1>
             <textarea
                 className="w-full p-2 border mt-4"
