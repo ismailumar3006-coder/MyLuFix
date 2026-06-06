@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Avatar Male - Business",
+    "imageUrl": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "Avatar Female - Casual",
+    "imageUrl": "https://via.placeholder.com/150"
+  }
+]
